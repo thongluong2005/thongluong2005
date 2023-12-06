@@ -1,4 +1,4 @@
-Hello guys! 
+Hello there! 
 - My name is Luong Minh Thong, aka T-185.
 - I'm a student and music producer. I'm currently learning C++.
 
